@@ -1,0 +1,17 @@
+C:\Users\Johaly\OneDrive\Escritorio\GitHub\ReserveX\ReserveX.Infraestructure.Persistence\bin\Debug\net9.0\ReserveX.Infraestructure.Persistence.deps.json
+C:\Users\Johaly\OneDrive\Escritorio\GitHub\ReserveX\ReserveX.Infraestructure.Persistence\bin\Debug\net9.0\ReserveX.Infraestructure.Persistence.dll
+C:\Users\Johaly\OneDrive\Escritorio\GitHub\ReserveX\ReserveX.Infraestructure.Persistence\bin\Debug\net9.0\ReserveX.Infraestructure.Persistence.pdb
+C:\Users\Johaly\OneDrive\Escritorio\GitHub\ReserveX\ReserveX.Infraestructure.Persistence\bin\Debug\net9.0\ReserveX.Core.Domain.dll
+C:\Users\Johaly\OneDrive\Escritorio\GitHub\ReserveX\ReserveX.Infraestructure.Persistence\bin\Debug\net9.0\ReserveX.Core.Domain.pdb
+C:\Users\Johaly\OneDrive\Escritorio\GitHub\ReserveX\ReserveX.Infraestructure.Persistence\obj\Debug\net9.0\ReserveX.Infraestructure.Persistence.csproj.AssemblyReference.cache
+C:\Users\Johaly\OneDrive\Escritorio\GitHub\ReserveX\ReserveX.Infraestructure.Persistence\obj\Debug\net9.0\ReserveX.Infraestructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johaly\OneDrive\Escritorio\GitHub\ReserveX\ReserveX.Infraestructure.Persistence\obj\Debug\net9.0\ReserveX.Infraestructure.Persistence.AssemblyInfoInputs.cache
+C:\Users\Johaly\OneDrive\Escritorio\GitHub\ReserveX\ReserveX.Infraestructure.Persistence\obj\Debug\net9.0\ReserveX.Infraestructure.Persistence.AssemblyInfo.cs
+C:\Users\Johaly\OneDrive\Escritorio\GitHub\ReserveX\ReserveX.Infraestructure.Persistence\obj\Debug\net9.0\ReserveX.Infraestructure.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Johaly\OneDrive\Escritorio\GitHub\ReserveX\ReserveX.Infraestructure.Persistence\obj\Debug\net9.0\ReserveX.4CB8EA4D.Up2Date
+C:\Users\Johaly\OneDrive\Escritorio\GitHub\ReserveX\ReserveX.Infraestructure.Persistence\obj\Debug\net9.0\ReserveX.Infraestructure.Persistence.dll
+C:\Users\Johaly\OneDrive\Escritorio\GitHub\ReserveX\ReserveX.Infraestructure.Persistence\obj\Debug\net9.0\refint\ReserveX.Infraestructure.Persistence.dll
+C:\Users\Johaly\OneDrive\Escritorio\GitHub\ReserveX\ReserveX.Infraestructure.Persistence\obj\Debug\net9.0\ReserveX.Infraestructure.Persistence.pdb
+C:\Users\Johaly\OneDrive\Escritorio\GitHub\ReserveX\ReserveX.Infraestructure.Persistence\obj\Debug\net9.0\ref\ReserveX.Infraestructure.Persistence.dll
+C:\Users\Johaly\OneDrive\Escritorio\GitHub\ReserveX\ReserveX.Infraestructure.Persistence\bin\Debug\net9.0\ReserveX.Infraestructure.Persistence.runtimeconfig.json
+C:\Users\Johaly\OneDrive\Escritorio\GitHub\ReserveX\ReserveX.Infraestructure.Persistence\obj\Debug\net9.0\ReserveX.Infraestructure.Persistence.genruntimeconfig.cache

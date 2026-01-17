@@ -1,0 +1,1825 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{542BFEC1-0971-464B-BD50-5D828444A450}|ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.domain\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542BFEC1-0971-464B-BD50-5D828444A450}|ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj|solutionrelative:reservex.core.domain\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.application\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|solutionrelative:reservex.core.application\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D30285-794A-464B-9BDA-D0F76B18AA96}|Api\\WebApi.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\api\\handlers\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D30285-794A-464B-9BDA-D0F76B18AA96}|Api\\WebApi.csproj|solutionrelative:api\\handlers\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D30285-794A-464B-9BDA-D0F76B18AA96}|Api\\WebApi.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D30285-794A-464B-9BDA-D0F76B18AA96}|Api\\WebApi.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.application\\servicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|solutionrelative:reservex.core.application\\servicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.application\\exceptions\\invalidcredentialsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|solutionrelative:reservex.core.application\\exceptions\\invalidcredentialsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.application\\exceptions\\inputvalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|solutionrelative:reservex.core.application\\exceptions\\inputvalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985E4118-D51E-4065-AAFF-1C8C8A5357BB}|ReserveX.Infraestructure.Persistence\\ReserveX.Infraestructure.Persistence.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.infraestructure.persistence\\servicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985E4118-D51E-4065-AAFF-1C8C8A5357BB}|ReserveX.Infraestructure.Persistence\\ReserveX.Infraestructure.Persistence.csproj|solutionrelative:reservex.infraestructure.persistence\\servicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D30285-794A-464B-9BDA-D0F76B18AA96}|Api\\WebApi.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{66D30285-794A-464B-9BDA-D0F76B18AA96}|Api\\WebApi.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D30285-794A-464B-9BDA-D0F76B18AA96}|Api\\WebApi.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\api\\controllers\\v1\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D30285-794A-464B-9BDA-D0F76B18AA96}|Api\\WebApi.csproj|solutionrelative:api\\controllers\\v1\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A39FA2-3E0D-46DD-AB74-EB460B61E484}|ReserveX.Infraestructure.Shared\\ReserveX.Infraestructure.Shared.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.infraestructure.shared\\authorization\\activeuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A39FA2-3E0D-46DD-AB74-EB460B61E484}|ReserveX.Infraestructure.Shared\\ReserveX.Infraestructure.Shared.csproj|solutionrelative:reservex.infraestructure.shared\\authorization\\activeuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D30285-794A-464B-9BDA-D0F76B18AA96}|Api\\WebApi.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\api\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D30285-794A-464B-9BDA-D0F76B18AA96}|Api\\WebApi.csproj|solutionrelative:api\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D30285-794A-464B-9BDA-D0F76B18AA96}|Api\\WebApi.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\api\\controllers\\v1\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D30285-794A-464B-9BDA-D0F76B18AA96}|Api\\WebApi.csproj|solutionrelative:api\\controllers\\v1\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985E4118-D51E-4065-AAFF-1C8C8A5357BB}|ReserveX.Infraestructure.Persistence\\ReserveX.Infraestructure.Persistence.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.infraestructure.persistence\\seeds\\userseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985E4118-D51E-4065-AAFF-1C8C8A5357BB}|ReserveX.Infraestructure.Persistence\\ReserveX.Infraestructure.Persistence.csproj|solutionrelative:reservex.infraestructure.persistence\\seeds\\userseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\Migrations\\20260116181843_Initial3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReserveX.Infraestructure.Persistence\\Migrations\\20260116181843_Initial3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\Migrations\\20260116181714_Initial3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReserveX.Infraestructure.Persistence\\Migrations\\20260116181714_Initial3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\Migrations\\20260116181430_Initial2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReserveX.Infraestructure.Persistence\\Migrations\\20260116181430_Initial2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542BFEC1-0971-464B-BD50-5D828444A450}|ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542BFEC1-0971-464B-BD50-5D828444A450}|ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj|solutionrelative:reservex.core.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985E4118-D51E-4065-AAFF-1C8C8A5357BB}|ReserveX.Infraestructure.Persistence\\ReserveX.Infraestructure.Persistence.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.infraestructure.persistence\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985E4118-D51E-4065-AAFF-1C8C8A5357BB}|ReserveX.Infraestructure.Persistence\\ReserveX.Infraestructure.Persistence.csproj|solutionrelative:reservex.infraestructure.persistence\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542BFEC1-0971-464B-BD50-5D828444A450}|ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.domain\\reservex.core.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{542BFEC1-0971-464B-BD50-5D828444A450}|ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj|solutionrelative:reservex.core.domain\\reservex.core.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.application\\services\\hasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|solutionrelative:reservex.core.application\\services\\hasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D30285-794A-464B-9BDA-D0F76B18AA96}|Api\\WebApi.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\api\\extensions\\appextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D30285-794A-464B-9BDA-D0F76B18AA96}|Api\\WebApi.csproj|solutionrelative:api\\extensions\\appextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D30285-794A-464B-9BDA-D0F76B18AA96}|Api\\WebApi.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\api\\extensions\\servicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D30285-794A-464B-9BDA-D0F76B18AA96}|Api\\WebApi.csproj|solutionrelative:api\\extensions\\servicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.application\\interfaces\\ihasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|solutionrelative:reservex.core.application\\interfaces\\ihasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.application\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|solutionrelative:reservex.core.application\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985E4118-D51E-4065-AAFF-1C8C8A5357BB}|ReserveX.Infraestructure.Persistence\\ReserveX.Infraestructure.Persistence.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.infraestructure.persistence\\reservex.infraestructure.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{985E4118-D51E-4065-AAFF-1C8C8A5357BB}|ReserveX.Infraestructure.Persistence\\ReserveX.Infraestructure.Persistence.csproj|solutionrelative:reservex.infraestructure.persistence\\reservex.infraestructure.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D30285-794A-464B-9BDA-D0F76B18AA96}|Api\\WebApi.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{66D30285-794A-464B-9BDA-D0F76B18AA96}|Api\\WebApi.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D30285-794A-464B-9BDA-D0F76B18AA96}|Api\\WebApi.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\api\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{66D30285-794A-464B-9BDA-D0F76B18AA96}|Api\\WebApi.csproj|solutionrelative:api\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\Migrations\\20260116172113_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReserveX.Infraestructure.Persistence\\Migrations\\20260116172113_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985E4118-D51E-4065-AAFF-1C8C8A5357BB}|ReserveX.Infraestructure.Persistence\\ReserveX.Infraestructure.Persistence.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.infraestructure.persistence\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985E4118-D51E-4065-AAFF-1C8C8A5357BB}|ReserveX.Infraestructure.Persistence\\ReserveX.Infraestructure.Persistence.csproj|solutionrelative:reservex.infraestructure.persistence\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985E4118-D51E-4065-AAFF-1C8C8A5357BB}|ReserveX.Infraestructure.Persistence\\ReserveX.Infraestructure.Persistence.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.infraestructure.persistence\\entitiesconfiguration\\stationresourceentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985E4118-D51E-4065-AAFF-1C8C8A5357BB}|ReserveX.Infraestructure.Persistence\\ReserveX.Infraestructure.Persistence.csproj|solutionrelative:reservex.infraestructure.persistence\\entitiesconfiguration\\stationresourceentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985E4118-D51E-4065-AAFF-1C8C8A5357BB}|ReserveX.Infraestructure.Persistence\\ReserveX.Infraestructure.Persistence.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.infraestructure.persistence\\entitiesconfiguration\\slotentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985E4118-D51E-4065-AAFF-1C8C8A5357BB}|ReserveX.Infraestructure.Persistence\\ReserveX.Infraestructure.Persistence.csproj|solutionrelative:reservex.infraestructure.persistence\\entitiesconfiguration\\slotentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985E4118-D51E-4065-AAFF-1C8C8A5357BB}|ReserveX.Infraestructure.Persistence\\ReserveX.Infraestructure.Persistence.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.infraestructure.persistence\\entitiesconfiguration\\stationscheduledateentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985E4118-D51E-4065-AAFF-1C8C8A5357BB}|ReserveX.Infraestructure.Persistence\\ReserveX.Infraestructure.Persistence.csproj|solutionrelative:reservex.infraestructure.persistence\\entitiesconfiguration\\stationscheduledateentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985E4118-D51E-4065-AAFF-1C8C8A5357BB}|ReserveX.Infraestructure.Persistence\\ReserveX.Infraestructure.Persistence.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.infraestructure.persistence\\entitiesconfiguration\\stationscheduleentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985E4118-D51E-4065-AAFF-1C8C8A5357BB}|ReserveX.Infraestructure.Persistence\\ReserveX.Infraestructure.Persistence.csproj|solutionrelative:reservex.infraestructure.persistence\\entitiesconfiguration\\stationscheduleentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985E4118-D51E-4065-AAFF-1C8C8A5357BB}|ReserveX.Infraestructure.Persistence\\ReserveX.Infraestructure.Persistence.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.infraestructure.persistence\\entitiesconfiguration\\userentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985E4118-D51E-4065-AAFF-1C8C8A5357BB}|ReserveX.Infraestructure.Persistence\\ReserveX.Infraestructure.Persistence.csproj|solutionrelative:reservex.infraestructure.persistence\\entitiesconfiguration\\userentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985E4118-D51E-4065-AAFF-1C8C8A5357BB}|ReserveX.Infraestructure.Persistence\\ReserveX.Infraestructure.Persistence.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.infraestructure.persistence\\repositories\\stationscheduledaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985E4118-D51E-4065-AAFF-1C8C8A5357BB}|ReserveX.Infraestructure.Persistence\\ReserveX.Infraestructure.Persistence.csproj|solutionrelative:reservex.infraestructure.persistence\\repositories\\stationscheduledaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985E4118-D51E-4065-AAFF-1C8C8A5357BB}|ReserveX.Infraestructure.Persistence\\ReserveX.Infraestructure.Persistence.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.infraestructure.persistence\\repositories\\stationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985E4118-D51E-4065-AAFF-1C8C8A5357BB}|ReserveX.Infraestructure.Persistence\\ReserveX.Infraestructure.Persistence.csproj|solutionrelative:reservex.infraestructure.persistence\\repositories\\stationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985E4118-D51E-4065-AAFF-1C8C8A5357BB}|ReserveX.Infraestructure.Persistence\\ReserveX.Infraestructure.Persistence.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.infraestructure.persistence\\repositories\\resourcerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985E4118-D51E-4065-AAFF-1C8C8A5357BB}|ReserveX.Infraestructure.Persistence\\ReserveX.Infraestructure.Persistence.csproj|solutionrelative:reservex.infraestructure.persistence\\repositories\\resourcerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.application\\features\\user\\queries\\getuserlistpaged\\getuserlistpagedquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|solutionrelative:reservex.core.application\\features\\user\\queries\\getuserlistpaged\\getuserlistpagedquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.application\\features\\user\\queries\\getuserbyid\\getuserbyidqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|solutionrelative:reservex.core.application\\features\\user\\queries\\getuserbyid\\getuserbyidqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.application\\features\\user\\queries\\getuserbyid\\getuserbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|solutionrelative:reservex.core.application\\features\\user\\queries\\getuserbyid\\getuserbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.application\\features\\user\\queries\\getalluserreservations\\getalluserreservationsqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|solutionrelative:reservex.core.application\\features\\user\\queries\\getalluserreservations\\getalluserreservationsqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.application\\features\\user\\queries\\getuserlistpaged\\getuserlistpagedqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|solutionrelative:reservex.core.application\\features\\user\\queries\\getuserlistpaged\\getuserlistpagedqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.application\\features\\user\\queries\\getalluserreservations\\getalluserreservationsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|solutionrelative:reservex.core.application\\features\\user\\queries\\getalluserreservations\\getalluserreservationsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.application\\mappings\\entitiesanddtos\\reservationmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|solutionrelative:reservex.core.application\\mappings\\entitiesanddtos\\reservationmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542BFEC1-0971-464B-BD50-5D828444A450}|ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.domain\\entities\\slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542BFEC1-0971-464B-BD50-5D828444A450}|ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj|solutionrelative:reservex.core.domain\\entities\\slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.application\\dtos\\reservation\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|solutionrelative:reservex.core.application\\dtos\\reservation\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.application\\dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|solutionrelative:reservex.core.application\\dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542BFEC1-0971-464B-BD50-5D828444A450}|ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.domain\\entities\\station.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542BFEC1-0971-464B-BD50-5D828444A450}|ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj|solutionrelative:reservex.core.domain\\entities\\station.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.application\\features\\user\\commands\\setstatus\\setuserstatuscommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|solutionrelative:reservex.core.application\\features\\user\\commands\\setstatus\\setuserstatuscommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.application\\features\\user\\commands\\setstatus\\setuserstatuscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|solutionrelative:reservex.core.application\\features\\user\\commands\\setstatus\\setuserstatuscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985E4118-D51E-4065-AAFF-1C8C8A5357BB}|ReserveX.Infraestructure.Persistence\\ReserveX.Infraestructure.Persistence.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.infraestructure.persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985E4118-D51E-4065-AAFF-1C8C8A5357BB}|ReserveX.Infraestructure.Persistence\\ReserveX.Infraestructure.Persistence.csproj|solutionrelative:reservex.infraestructure.persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.application\\features\\user\\commands\\createuser\\createusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|solutionrelative:reservex.core.application\\features\\user\\commands\\createuser\\createusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.application\\features\\user\\commands\\createuser\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|solutionrelative:reservex.core.application\\features\\user\\commands\\createuser\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.application\\features\\auth\\commands\\signin\\signincommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|solutionrelative:reservex.core.application\\features\\auth\\commands\\signin\\signincommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.application\\features\\auth\\commands\\signin\\signincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|solutionrelative:reservex.core.application\\features\\auth\\commands\\signin\\signincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.application\\features\\auth\\commands\\refreshtoken\\refreshtokencommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|solutionrelative:reservex.core.application\\features\\auth\\commands\\refreshtoken\\refreshtokencommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.application\\features\\auth\\commands\\login\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|solutionrelative:reservex.core.application\\features\\auth\\commands\\login\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.application\\features\\auth\\commands\\login\\logincommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|solutionrelative:reservex.core.application\\features\\auth\\commands\\login\\logincommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.application\\helpers\\enumhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|solutionrelative:reservex.core.application\\helpers\\enumhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.application\\mappings\\entitiesanddtos\\usermappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|solutionrelative:reservex.core.application\\mappings\\entitiesanddtos\\usermappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.application\\features\\auth\\commands\\refreshtoken\\refreshtokencommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|solutionrelative:reservex.core.application\\features\\auth\\commands\\refreshtoken\\refreshtokencommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.application\\dtos\\pagination\\pagedresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|solutionrelative:reservex.core.application\\dtos\\pagination\\pagedresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542BFEC1-0971-464B-BD50-5D828444A450}|ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.domain\\entities\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542BFEC1-0971-464B-BD50-5D828444A450}|ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj|solutionrelative:reservex.core.domain\\entities\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542BFEC1-0971-464B-BD50-5D828444A450}|ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542BFEC1-0971-464B-BD50-5D828444A450}|ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj|solutionrelative:reservex.core.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.application\\services\\refreshtokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|solutionrelative:reservex.core.application\\services\\refreshtokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.application\\interfaces\\irefreshtokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|solutionrelative:reservex.core.application\\interfaces\\irefreshtokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.application\\services\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|solutionrelative:reservex.core.application\\services\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.application\\interfaces\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|solutionrelative:reservex.core.application\\interfaces\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.application\\mappings\\entitiesanddtos\\refreshtokenmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|solutionrelative:reservex.core.application\\mappings\\entitiesanddtos\\refreshtokenmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.application\\dtos\\refreshtoken\\refreshtokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|solutionrelative:reservex.core.application\\dtos\\refreshtoken\\refreshtokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985E4118-D51E-4065-AAFF-1C8C8A5357BB}|ReserveX.Infraestructure.Persistence\\ReserveX.Infraestructure.Persistence.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.infraestructure.persistence\\entitiesconfiguration\\refreshtokenentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985E4118-D51E-4065-AAFF-1C8C8A5357BB}|ReserveX.Infraestructure.Persistence\\ReserveX.Infraestructure.Persistence.csproj|solutionrelative:reservex.infraestructure.persistence\\entitiesconfiguration\\refreshtokenentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542BFEC1-0971-464B-BD50-5D828444A450}|ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.domain\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542BFEC1-0971-464B-BD50-5D828444A450}|ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj|solutionrelative:reservex.core.domain\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.application\\dtos\\login\\tokenresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|solutionrelative:reservex.core.application\\dtos\\login\\tokenresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542BFEC1-0971-464B-BD50-5D828444A450}|ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.domain\\settings\\refreshtokenssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542BFEC1-0971-464B-BD50-5D828444A450}|ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj|solutionrelative:reservex.core.domain\\settings\\refreshtokenssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985E4118-D51E-4065-AAFF-1C8C8A5357BB}|ReserveX.Infraestructure.Persistence\\ReserveX.Infraestructure.Persistence.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.infraestructure.persistence\\repositories\\refreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985E4118-D51E-4065-AAFF-1C8C8A5357BB}|ReserveX.Infraestructure.Persistence\\ReserveX.Infraestructure.Persistence.csproj|solutionrelative:reservex.infraestructure.persistence\\repositories\\refreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542BFEC1-0971-464B-BD50-5D828444A450}|ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.domain\\interfaces\\irefreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542BFEC1-0971-464B-BD50-5D828444A450}|ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj|solutionrelative:reservex.core.domain\\interfaces\\irefreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.application\\authorization\\requirements\\activeuserrequirement .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|solutionrelative:reservex.core.application\\authorization\\requirements\\activeuserrequirement .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542BFEC1-0971-464B-BD50-5D828444A450}|ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.domain\\settings\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542BFEC1-0971-464B-BD50-5D828444A450}|ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj|solutionrelative:reservex.core.domain\\settings\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.application\\reservex.core.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{96F67364-93CF-4FFD-96F4-D5B0761D39F7}|ReserveX.Core.Application\\ReserveX.Core.Application.csproj|solutionrelative:reservex.core.application\\reservex.core.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985E4118-D51E-4065-AAFF-1C8C8A5357BB}|ReserveX.Infraestructure.Persistence\\ReserveX.Infraestructure.Persistence.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.infraestructure.persistence\\repositories\\stationschedulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985E4118-D51E-4065-AAFF-1C8C8A5357BB}|ReserveX.Infraestructure.Persistence\\ReserveX.Infraestructure.Persistence.csproj|solutionrelative:reservex.infraestructure.persistence\\repositories\\stationschedulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985E4118-D51E-4065-AAFF-1C8C8A5357BB}|ReserveX.Infraestructure.Persistence\\ReserveX.Infraestructure.Persistence.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.infraestructure.persistence\\repositories\\stationresourcerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985E4118-D51E-4065-AAFF-1C8C8A5357BB}|ReserveX.Infraestructure.Persistence\\ReserveX.Infraestructure.Persistence.csproj|solutionrelative:reservex.infraestructure.persistence\\repositories\\stationresourcerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985E4118-D51E-4065-AAFF-1C8C8A5357BB}|ReserveX.Infraestructure.Persistence\\ReserveX.Infraestructure.Persistence.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.infraestructure.persistence\\repositories\\slotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985E4118-D51E-4065-AAFF-1C8C8A5357BB}|ReserveX.Infraestructure.Persistence\\ReserveX.Infraestructure.Persistence.csproj|solutionrelative:reservex.infraestructure.persistence\\repositories\\slotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542BFEC1-0971-464B-BD50-5D828444A450}|ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.domain\\interfaces\\istationschedulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542BFEC1-0971-464B-BD50-5D828444A450}|ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj|solutionrelative:reservex.core.domain\\interfaces\\istationschedulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542BFEC1-0971-464B-BD50-5D828444A450}|ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.domain\\interfaces\\istationscheduledaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542BFEC1-0971-464B-BD50-5D828444A450}|ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj|solutionrelative:reservex.core.domain\\interfaces\\istationscheduledaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542BFEC1-0971-464B-BD50-5D828444A450}|ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.domain\\interfaces\\istationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542BFEC1-0971-464B-BD50-5D828444A450}|ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj|solutionrelative:reservex.core.domain\\interfaces\\istationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542BFEC1-0971-464B-BD50-5D828444A450}|ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.domain\\interfaces\\istationresourcerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542BFEC1-0971-464B-BD50-5D828444A450}|ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj|solutionrelative:reservex.core.domain\\interfaces\\istationresourcerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542BFEC1-0971-464B-BD50-5D828444A450}|ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.domain\\interfaces\\ireservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542BFEC1-0971-464B-BD50-5D828444A450}|ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj|solutionrelative:reservex.core.domain\\interfaces\\ireservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542BFEC1-0971-464B-BD50-5D828444A450}|ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.domain\\interfaces\\islotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542BFEC1-0971-464B-BD50-5D828444A450}|ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj|solutionrelative:reservex.core.domain\\interfaces\\islotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542BFEC1-0971-464B-BD50-5D828444A450}|ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.domain\\interfaces\\iresourcerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542BFEC1-0971-464B-BD50-5D828444A450}|ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj|solutionrelative:reservex.core.domain\\interfaces\\iresourcerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985E4118-D51E-4065-AAFF-1C8C8A5357BB}|ReserveX.Infraestructure.Persistence\\ReserveX.Infraestructure.Persistence.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.infraestructure.persistence\\repositories\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985E4118-D51E-4065-AAFF-1C8C8A5357BB}|ReserveX.Infraestructure.Persistence\\ReserveX.Infraestructure.Persistence.csproj|solutionrelative:reservex.infraestructure.persistence\\repositories\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542BFEC1-0971-464B-BD50-5D828444A450}|ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.domain\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542BFEC1-0971-464B-BD50-5D828444A450}|ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj|solutionrelative:reservex.core.domain\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985E4118-D51E-4065-AAFF-1C8C8A5357BB}|ReserveX.Infraestructure.Persistence\\ReserveX.Infraestructure.Persistence.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.infraestructure.persistence\\entitiesconfiguration\\stationentitycofiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985E4118-D51E-4065-AAFF-1C8C8A5357BB}|ReserveX.Infraestructure.Persistence\\ReserveX.Infraestructure.Persistence.csproj|solutionrelative:reservex.infraestructure.persistence\\entitiesconfiguration\\stationentitycofiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542BFEC1-0971-464B-BD50-5D828444A450}|ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.domain\\entities\\stationresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542BFEC1-0971-464B-BD50-5D828444A450}|ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj|solutionrelative:reservex.core.domain\\entities\\stationresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985E4118-D51E-4065-AAFF-1C8C8A5357BB}|ReserveX.Infraestructure.Persistence\\ReserveX.Infraestructure.Persistence.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.infraestructure.persistence\\entitiesconfiguration\\reservationentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985E4118-D51E-4065-AAFF-1C8C8A5357BB}|ReserveX.Infraestructure.Persistence\\ReserveX.Infraestructure.Persistence.csproj|solutionrelative:reservex.infraestructure.persistence\\entitiesconfiguration\\reservationentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985E4118-D51E-4065-AAFF-1C8C8A5357BB}|ReserveX.Infraestructure.Persistence\\ReserveX.Infraestructure.Persistence.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.infraestructure.persistence\\entitiesconfiguration\\resourceentityconfiguuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985E4118-D51E-4065-AAFF-1C8C8A5357BB}|ReserveX.Infraestructure.Persistence\\ReserveX.Infraestructure.Persistence.csproj|solutionrelative:reservex.infraestructure.persistence\\entitiesconfiguration\\resourceentityconfiguuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542BFEC1-0971-464B-BD50-5D828444A450}|ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.domain\\entities\\stationschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542BFEC1-0971-464B-BD50-5D828444A450}|ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj|solutionrelative:reservex.core.domain\\entities\\stationschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542BFEC1-0971-464B-BD50-5D828444A450}|ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.domain\\entities\\stationscheduledate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542BFEC1-0971-464B-BD50-5D828444A450}|ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj|solutionrelative:reservex.core.domain\\entities\\stationscheduledate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542BFEC1-0971-464B-BD50-5D828444A450}|ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.domain\\common\\enums\\resoursetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542BFEC1-0971-464B-BD50-5D828444A450}|ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj|solutionrelative:reservex.core.domain\\common\\enums\\resoursetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542BFEC1-0971-464B-BD50-5D828444A450}|ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.domain\\common\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542BFEC1-0971-464B-BD50-5D828444A450}|ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj|solutionrelative:reservex.core.domain\\common\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542BFEC1-0971-464B-BD50-5D828444A450}|ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.domain\\common\\enums\\reservationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542BFEC1-0971-464B-BD50-5D828444A450}|ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj|solutionrelative:reservex.core.domain\\common\\enums\\reservationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542BFEC1-0971-464B-BD50-5D828444A450}|ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.core.domain\\common\\enums\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542BFEC1-0971-464B-BD50-5D828444A450}|ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj|solutionrelative:reservex.core.domain\\common\\enums\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A39FA2-3E0D-46DD-AB74-EB460B61E484}|ReserveX.Infraestructure.Shared\\ReserveX.Infraestructure.Shared.csproj|c:\\users\\johaly\\onedrive\\escritorio\\github\\reservex\\reservex.infraestructure.shared\\reservex.infraestructure.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{69A39FA2-3E0D-46DD-AB74-EB460B61E484}|ReserveX.Infraestructure.Shared\\ReserveX.Infraestructure.Shared.csproj|solutionrelative:reservex.infraestructure.shared\\reservex.infraestructure.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserSeed.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\Seeds\\UserSeed.cs",
+              "RelativeDocumentMoniker": "ReserveX.Infraestructure.Persistence\\Seeds\\UserSeed.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\Seeds\\UserSeed.cs",
+              "RelativeToolTip": "ReserveX.Infraestructure.Persistence\\Seeds\\UserSeed.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T17:40:23.513Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GlobalExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\Api\\Handlers\\GlobalExceptionHandler.cs",
+              "RelativeDocumentMoniker": "Api\\Handlers\\GlobalExceptionHandler.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\Api\\Handlers\\GlobalExceptionHandler.cs",
+              "RelativeToolTip": "Api\\Handlers\\GlobalExceptionHandler.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAgwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T16:08:04.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Behaviors\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Application\\Behaviors\\ValidationBehavior.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Behaviors\\ValidationBehavior.cs",
+              "RelativeToolTip": "ReserveX.Core.Application\\Behaviors\\ValidationBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T05:56:29.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T20:06:15.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServicesRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\ServicesRegistration.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Application\\ServicesRegistration.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\ServicesRegistration.cs",
+              "RelativeToolTip": "ReserveX.Core.Application\\ServicesRegistration.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA7wCwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T04:23:33.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InvalidCredentialsException.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Exceptions\\InvalidCredentialsException.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Application\\Exceptions\\InvalidCredentialsException.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Exceptions\\InvalidCredentialsException.cs",
+              "RelativeToolTip": "ReserveX.Core.Application\\Exceptions\\InvalidCredentialsException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T03:00:19.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InputValidationException.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Exceptions\\InputValidationException.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Application\\Exceptions\\InputValidationException.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Exceptions\\InputValidationException.cs",
+              "RelativeToolTip": "ReserveX.Core.Application\\Exceptions\\InputValidationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T02:59:26.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServicesRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\ServicesRegistration.cs",
+              "RelativeDocumentMoniker": "ReserveX.Infraestructure.Persistence\\ServicesRegistration.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\ServicesRegistration.cs",
+              "RelativeToolTip": "ReserveX.Infraestructure.Persistence\\ServicesRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T20:11:45.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\Api\\appsettings.json",
+              "RelativeToolTip": "Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-13T04:23:23.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\Api\\Controllers\\v1\\AuthController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\v1\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\Api\\Controllers\\v1\\AuthController.cs",
+              "RelativeToolTip": "Api\\Controllers\\v1\\AuthController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T03:25:52.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ActiveUserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Shared\\Authorization\\ActiveUserHandler.cs",
+              "RelativeDocumentMoniker": "ReserveX.Infraestructure.Shared\\Authorization\\ActiveUserHandler.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Shared\\Authorization\\ActiveUserHandler.cs",
+              "RelativeToolTip": "ReserveX.Infraestructure.Shared\\Authorization\\ActiveUserHandler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T05:38:05.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseApiController.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\Api\\Controllers\\BaseApiController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\BaseApiController.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\Api\\Controllers\\BaseApiController.cs",
+              "RelativeToolTip": "Api\\Controllers\\BaseApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T03:19:49.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\Api\\Controllers\\v1\\UsersController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\v1\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\Api\\Controllers\\v1\\UsersController.cs",
+              "RelativeToolTip": "Api\\Controllers\\v1\\UsersController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T20:23:12.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20260116181843_Initial3.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\Migrations\\20260116181843_Initial3.cs",
+              "RelativeDocumentMoniker": "ReserveX.Infraestructure.Persistence\\Migrations\\20260116181843_Initial3.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\Migrations\\20260116181843_Initial3.cs",
+              "RelativeToolTip": "ReserveX.Infraestructure.Persistence\\Migrations\\20260116181843_Initial3.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T18:18:43.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20260116181714_Initial3.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\Migrations\\20260116181714_Initial3.cs",
+              "RelativeDocumentMoniker": "ReserveX.Infraestructure.Persistence\\Migrations\\20260116181714_Initial3.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\Migrations\\20260116181714_Initial3.cs",
+              "RelativeToolTip": "ReserveX.Infraestructure.Persistence\\Migrations\\20260116181714_Initial3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T18:17:15.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ReserveX.Infraestructure.Persistence\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "ReserveX.Infraestructure.Persistence\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAlwBUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T04:23:22.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20260116181430_Initial2.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\Migrations\\20260116181430_Initial2.cs",
+              "RelativeDocumentMoniker": "ReserveX.Infraestructure.Persistence\\Migrations\\20260116181430_Initial2.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\Migrations\\20260116181430_Initial2.cs",
+              "RelativeToolTip": "ReserveX.Infraestructure.Persistence\\Migrations\\20260116181430_Initial2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T18:14:30.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Interfaces\\IEmailService.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Application\\Interfaces\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Interfaces\\IEmailService.cs",
+              "RelativeToolTip": "ReserveX.Core.Application\\Interfaces\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T04:23:32.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "ReserveX.Core.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T16:42:41.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\Api\\Extensions\\AppExtensions.cs",
+              "RelativeDocumentMoniker": "Api\\Extensions\\AppExtensions.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\Api\\Extensions\\AppExtensions.cs",
+              "RelativeToolTip": "Api\\Extensions\\AppExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T00:21:29.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ReserveX.Core.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj",
+              "RelativeDocumentMoniker": "ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj",
+              "RelativeToolTip": "ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-11T02:46:49.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ServicesExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\Api\\Extensions\\ServicesExtensions.cs",
+              "RelativeDocumentMoniker": "Api\\Extensions\\ServicesExtensions.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\Api\\Extensions\\ServicesExtensions.cs",
+              "RelativeToolTip": "Api\\Extensions\\ServicesExtensions.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAYwCYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T00:21:46.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Hasher.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Services\\Hasher.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Application\\Services\\Hasher.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Services\\Hasher.cs",
+              "RelativeToolTip": "ReserveX.Core.Application\\Services\\Hasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T20:23:50.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IHasher.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Interfaces\\IHasher.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Application\\Interfaces\\IHasher.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Interfaces\\IHasher.cs",
+              "RelativeToolTip": "ReserveX.Core.Application\\Interfaces\\IHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T20:42:21.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "WebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\Api\\WebApi.csproj",
+              "RelativeDocumentMoniker": "Api\\WebApi.csproj",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\Api\\WebApi.csproj",
+              "RelativeToolTip": "Api\\WebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-13T04:23:33.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "ReserveX.Infraestructure.Persistence\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "ReserveX.Infraestructure.Persistence\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T04:23:22.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-16T17:24:34.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ReserveX.Infraestructure.Persistence.csproj",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\ReserveX.Infraestructure.Persistence.csproj",
+              "RelativeDocumentMoniker": "ReserveX.Infraestructure.Persistence\\ReserveX.Infraestructure.Persistence.csproj",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\ReserveX.Infraestructure.Persistence.csproj",
+              "RelativeToolTip": "ReserveX.Infraestructure.Persistence\\ReserveX.Infraestructure.Persistence.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-11T02:46:49.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "StationResourceEntityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\EntitiesConfiguration\\StationResourceEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "ReserveX.Infraestructure.Persistence\\EntitiesConfiguration\\StationResourceEntityConfiguration.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\EntitiesConfiguration\\StationResourceEntityConfiguration.cs",
+              "RelativeToolTip": "ReserveX.Infraestructure.Persistence\\EntitiesConfiguration\\StationResourceEntityConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T04:23:21.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20260116172113_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\Migrations\\20260116172113_Initial.cs",
+              "RelativeDocumentMoniker": "ReserveX.Infraestructure.Persistence\\Migrations\\20260116172113_Initial.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\Migrations\\20260116172113_Initial.cs",
+              "RelativeToolTip": "ReserveX.Infraestructure.Persistence\\Migrations\\20260116172113_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T17:21:14.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SlotEntityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\EntitiesConfiguration\\SlotEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "ReserveX.Infraestructure.Persistence\\EntitiesConfiguration\\SlotEntityConfiguration.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\EntitiesConfiguration\\SlotEntityConfiguration.cs",
+              "RelativeToolTip": "ReserveX.Infraestructure.Persistence\\EntitiesConfiguration\\SlotEntityConfiguration.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T00:45:33.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "StationScheduleDateEntityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\EntitiesConfiguration\\StationScheduleDateEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "ReserveX.Infraestructure.Persistence\\EntitiesConfiguration\\StationScheduleDateEntityConfiguration.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\EntitiesConfiguration\\StationScheduleDateEntityConfiguration.cs",
+              "RelativeToolTip": "ReserveX.Infraestructure.Persistence\\EntitiesConfiguration\\StationScheduleDateEntityConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T04:23:21.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "StationScheduleEntityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\EntitiesConfiguration\\StationScheduleEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "ReserveX.Infraestructure.Persistence\\EntitiesConfiguration\\StationScheduleEntityConfiguration.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\EntitiesConfiguration\\StationScheduleEntityConfiguration.cs",
+              "RelativeToolTip": "ReserveX.Infraestructure.Persistence\\EntitiesConfiguration\\StationScheduleEntityConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T04:23:21.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UserEntityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\EntitiesConfiguration\\UserEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "ReserveX.Infraestructure.Persistence\\EntitiesConfiguration\\UserEntityConfiguration.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\EntitiesConfiguration\\UserEntityConfiguration.cs",
+              "RelativeToolTip": "ReserveX.Infraestructure.Persistence\\EntitiesConfiguration\\UserEntityConfiguration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T04:23:19.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "StationScheduleDateRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\Repositories\\StationScheduleDateRepository.cs",
+              "RelativeDocumentMoniker": "ReserveX.Infraestructure.Persistence\\Repositories\\StationScheduleDateRepository.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\Repositories\\StationScheduleDateRepository.cs",
+              "RelativeToolTip": "ReserveX.Infraestructure.Persistence\\Repositories\\StationScheduleDateRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T04:23:30.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "StationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\Repositories\\StationRepository.cs",
+              "RelativeDocumentMoniker": "ReserveX.Infraestructure.Persistence\\Repositories\\StationRepository.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\Repositories\\StationRepository.cs",
+              "RelativeToolTip": "ReserveX.Infraestructure.Persistence\\Repositories\\StationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T04:23:29.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ResourceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\Repositories\\ResourceRepository.cs",
+              "RelativeDocumentMoniker": "ReserveX.Infraestructure.Persistence\\Repositories\\ResourceRepository.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\Repositories\\ResourceRepository.cs",
+              "RelativeToolTip": "ReserveX.Infraestructure.Persistence\\Repositories\\ResourceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T04:23:30.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GetUserListPagedQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Features\\User\\Queries\\GetUserListPaged\\GetUserListPagedQuery.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Application\\Features\\User\\Queries\\GetUserListPaged\\GetUserListPagedQuery.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Features\\User\\Queries\\GetUserListPaged\\GetUserListPagedQuery.cs",
+              "RelativeToolTip": "ReserveX.Core.Application\\Features\\User\\Queries\\GetUserListPaged\\GetUserListPagedQuery.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T21:08:32.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "GetUserByIdQueryValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Features\\User\\Queries\\GetUserById\\GetUserByIdQueryValidator.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Application\\Features\\User\\Queries\\GetUserById\\GetUserByIdQueryValidator.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Features\\User\\Queries\\GetUserById\\GetUserByIdQueryValidator.cs",
+              "RelativeToolTip": "ReserveX.Core.Application\\Features\\User\\Queries\\GetUserById\\GetUserByIdQueryValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T00:06:07.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "GetUserByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Features\\User\\Queries\\GetUserById\\GetUserByIdQuery.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Application\\Features\\User\\Queries\\GetUserById\\GetUserByIdQuery.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Features\\User\\Queries\\GetUserById\\GetUserByIdQuery.cs",
+              "RelativeToolTip": "ReserveX.Core.Application\\Features\\User\\Queries\\GetUserById\\GetUserByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T23:52:50.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GetAllUserReservationsQueryValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Features\\User\\Queries\\GetAllUserReservations\\GetAllUserReservationsQueryValidator.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Application\\Features\\User\\Queries\\GetAllUserReservations\\GetAllUserReservationsQueryValidator.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Features\\User\\Queries\\GetAllUserReservations\\GetAllUserReservationsQueryValidator.cs",
+              "RelativeToolTip": "ReserveX.Core.Application\\Features\\User\\Queries\\GetAllUserReservations\\GetAllUserReservationsQueryValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T15:28:25.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "GetUserListPagedQueryValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Features\\User\\Queries\\GetUserListPaged\\GetUserListPagedQueryValidator.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Application\\Features\\User\\Queries\\GetUserListPaged\\GetUserListPagedQueryValidator.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Features\\User\\Queries\\GetUserListPaged\\GetUserListPagedQueryValidator.cs",
+              "RelativeToolTip": "ReserveX.Core.Application\\Features\\User\\Queries\\GetUserListPaged\\GetUserListPagedQueryValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T15:39:02.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "GetAllUserReservationsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Features\\User\\Queries\\GetAllUserReservations\\GetAllUserReservationsQuery.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Application\\Features\\User\\Queries\\GetAllUserReservations\\GetAllUserReservationsQuery.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Features\\User\\Queries\\GetAllUserReservations\\GetAllUserReservationsQuery.cs",
+              "RelativeToolTip": "ReserveX.Core.Application\\Features\\User\\Queries\\GetAllUserReservations\\GetAllUserReservationsQuery.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAA/wD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T14:10:59.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ReservationMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Mappings\\EntitiesAndDtos\\ReservationMappingProfile.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Application\\Mappings\\EntitiesAndDtos\\ReservationMappingProfile.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Mappings\\EntitiesAndDtos\\ReservationMappingProfile.cs",
+              "RelativeToolTip": "ReserveX.Core.Application\\Mappings\\EntitiesAndDtos\\ReservationMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T14:39:06.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Dtos\\User\\UserDto.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Application\\Dtos\\User\\UserDto.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Dtos\\User\\UserDto.cs",
+              "RelativeToolTip": "ReserveX.Core.Application\\Dtos\\User\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T21:09:50.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ReservationDto.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Dtos\\Reservation\\ReservationDto.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Application\\Dtos\\Reservation\\ReservationDto.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Dtos\\Reservation\\ReservationDto.cs",
+              "RelativeToolTip": "ReserveX.Core.Application\\Dtos\\Reservation\\ReservationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T14:19:35.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "SetUserStatusCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Features\\User\\Commands\\SetStatus\\SetUserStatusCommandValidator.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Application\\Features\\User\\Commands\\SetStatus\\SetUserStatusCommandValidator.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Features\\User\\Commands\\SetStatus\\SetUserStatusCommandValidator.cs",
+              "RelativeToolTip": "ReserveX.Core.Application\\Features\\User\\Commands\\SetStatus\\SetUserStatusCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T03:03:39.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "SetUserStatusCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Features\\User\\Commands\\SetStatus\\SetUserStatusCommand.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Application\\Features\\User\\Commands\\SetStatus\\SetUserStatusCommand.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Features\\User\\Commands\\SetStatus\\SetUserStatusCommand.cs",
+              "RelativeToolTip": "ReserveX.Core.Application\\Features\\User\\Commands\\SetStatus\\SetUserStatusCommand.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwCEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T03:02:42.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CreateUserCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Features\\User\\Commands\\CreateUser\\CreateUserCommandValidator.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Application\\Features\\User\\Commands\\CreateUser\\CreateUserCommandValidator.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Features\\User\\Commands\\CreateUser\\CreateUserCommandValidator.cs",
+              "RelativeToolTip": "ReserveX.Core.Application\\Features\\User\\Commands\\CreateUser\\CreateUserCommandValidator.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T00:45:16.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "ReserveX.Infraestructure.Persistence\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "ReserveX.Infraestructure.Persistence\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T04:23:31.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "SignInCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Features\\Auth\\Commands\\SignIn\\SignInCommandValidator.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Application\\Features\\Auth\\Commands\\SignIn\\SignInCommandValidator.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Features\\Auth\\Commands\\SignIn\\SignInCommandValidator.cs",
+              "RelativeToolTip": "ReserveX.Core.Application\\Features\\Auth\\Commands\\SignIn\\SignInCommandValidator.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T02:30:47.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "SignInCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Features\\Auth\\Commands\\SignIn\\SignInCommand.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Application\\Features\\Auth\\Commands\\SignIn\\SignInCommand.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Features\\Auth\\Commands\\SignIn\\SignInCommand.cs",
+              "RelativeToolTip": "ReserveX.Core.Application\\Features\\Auth\\Commands\\SignIn\\SignInCommand.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA9wCsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T02:09:36.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CreateUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Features\\User\\Commands\\CreateUser\\CreateUserCommand.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Application\\Features\\User\\Commands\\CreateUser\\CreateUserCommand.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Features\\User\\Commands\\CreateUser\\CreateUserCommand.cs",
+              "RelativeToolTip": "ReserveX.Core.Application\\Features\\User\\Commands\\CreateUser\\CreateUserCommand.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwBYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T00:25:47.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "LoginCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Features\\Auth\\Commands\\Login\\LoginCommand.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Application\\Features\\Auth\\Commands\\Login\\LoginCommand.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Features\\Auth\\Commands\\Login\\LoginCommand.cs",
+              "RelativeToolTip": "ReserveX.Core.Application\\Features\\Auth\\Commands\\Login\\LoginCommand.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwDUAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T05:43:50.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "LoginCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Features\\Auth\\Commands\\Login\\LoginCommandValidator.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Application\\Features\\Auth\\Commands\\Login\\LoginCommandValidator.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Features\\Auth\\Commands\\Login\\LoginCommandValidator.cs",
+              "RelativeToolTip": "ReserveX.Core.Application\\Features\\Auth\\Commands\\Login\\LoginCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T05:44:58.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "RefreshTokenCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Features\\Auth\\Commands\\RefreshToken\\RefreshTokenCommandValidator.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Application\\Features\\Auth\\Commands\\RefreshToken\\RefreshTokenCommandValidator.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Features\\Auth\\Commands\\RefreshToken\\RefreshTokenCommandValidator.cs",
+              "RelativeToolTip": "ReserveX.Core.Application\\Features\\Auth\\Commands\\RefreshToken\\RefreshTokenCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T18:12:24.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "EnumHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Helpers\\EnumHelper.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Application\\Helpers\\EnumHelper.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Helpers\\EnumHelper.cs",
+              "RelativeToolTip": "ReserveX.Core.Application\\Helpers\\EnumHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T00:37:40.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "UserMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Mappings\\EntitiesAndDtos\\UserMappingProfile.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Application\\Mappings\\EntitiesAndDtos\\UserMappingProfile.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Mappings\\EntitiesAndDtos\\UserMappingProfile.cs",
+              "RelativeToolTip": "ReserveX.Core.Application\\Mappings\\EntitiesAndDtos\\UserMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T00:15:48.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "RefreshTokenCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Features\\Auth\\Commands\\RefreshToken\\RefreshTokenCommand.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Application\\Features\\Auth\\Commands\\RefreshToken\\RefreshTokenCommand.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Features\\Auth\\Commands\\RefreshToken\\RefreshTokenCommand.cs",
+              "RelativeToolTip": "ReserveX.Core.Application\\Features\\Auth\\Commands\\RefreshToken\\RefreshTokenCommand.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T17:41:44.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "PagedResultDto.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Dtos\\Pagination\\PagedResultDto.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Application\\Dtos\\Pagination\\PagedResultDto.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Dtos\\Pagination\\PagedResultDto.cs",
+              "RelativeToolTip": "ReserveX.Core.Application\\Dtos\\Pagination\\PagedResultDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T21:42:32.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Domain\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "ReserveX.Core.Domain\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T04:23:32.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "RefreshTokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Services\\RefreshTokenGenerator.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Application\\Services\\RefreshTokenGenerator.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Services\\RefreshTokenGenerator.cs",
+              "RelativeToolTip": "ReserveX.Core.Application\\Services\\RefreshTokenGenerator.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T15:58:31.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "IRefreshTokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Interfaces\\IRefreshTokenGenerator.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Application\\Interfaces\\IRefreshTokenGenerator.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Interfaces\\IRefreshTokenGenerator.cs",
+              "RelativeToolTip": "ReserveX.Core.Application\\Interfaces\\IRefreshTokenGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T06:18:56.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "JwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Services\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Application\\Services\\JwtTokenGenerator.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Services\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "ReserveX.Core.Application\\Services\\JwtTokenGenerator.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwBkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T20:44:49.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "IJwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Interfaces\\IJwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Application\\Interfaces\\IJwtTokenGenerator.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Interfaces\\IJwtTokenGenerator.cs",
+              "RelativeToolTip": "ReserveX.Core.Application\\Interfaces\\IJwtTokenGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T20:42:33.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "RefreshTokenMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Mappings\\EntitiesAndDtos\\RefreshTokenMappingProfile.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Application\\Mappings\\EntitiesAndDtos\\RefreshTokenMappingProfile.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Mappings\\EntitiesAndDtos\\RefreshTokenMappingProfile.cs",
+              "RelativeToolTip": "ReserveX.Core.Application\\Mappings\\EntitiesAndDtos\\RefreshTokenMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T18:07:18.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "RefreshTokenDto.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Dtos\\RefreshToken\\RefreshTokenDto.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Application\\Dtos\\RefreshToken\\RefreshTokenDto.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Dtos\\RefreshToken\\RefreshTokenDto.cs",
+              "RelativeToolTip": "ReserveX.Core.Application\\Dtos\\RefreshToken\\RefreshTokenDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T16:49:31.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "RefreshTokenEntityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\EntitiesConfiguration\\RefreshTokenEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "ReserveX.Infraestructure.Persistence\\EntitiesConfiguration\\RefreshTokenEntityConfiguration.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\EntitiesConfiguration\\RefreshTokenEntityConfiguration.cs",
+              "RelativeToolTip": "ReserveX.Infraestructure.Persistence\\EntitiesConfiguration\\RefreshTokenEntityConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T05:48:05.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\Entities\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Domain\\Entities\\RefreshToken.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\Entities\\RefreshToken.cs",
+              "RelativeToolTip": "ReserveX.Core.Domain\\Entities\\RefreshToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T05:43:27.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "TokenResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Dtos\\Login\\TokenResponseDto.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Application\\Dtos\\Login\\TokenResponseDto.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Dtos\\Login\\TokenResponseDto.cs",
+              "RelativeToolTip": "ReserveX.Core.Application\\Dtos\\Login\\TokenResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T16:43:15.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "RefreshTokensSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\Settings\\RefreshTokensSettings.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Domain\\Settings\\RefreshTokensSettings.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\Settings\\RefreshTokensSettings.cs",
+              "RelativeToolTip": "ReserveX.Core.Domain\\Settings\\RefreshTokensSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T16:07:01.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "RefreshTokenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\Repositories\\RefreshTokenRepository.cs",
+              "RelativeDocumentMoniker": "ReserveX.Infraestructure.Persistence\\Repositories\\RefreshTokenRepository.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\Repositories\\RefreshTokenRepository.cs",
+              "RelativeToolTip": "ReserveX.Infraestructure.Persistence\\Repositories\\RefreshTokenRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T06:02:20.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "IRefreshTokenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\Interfaces\\IRefreshTokenRepository.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Domain\\Interfaces\\IRefreshTokenRepository.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\Interfaces\\IRefreshTokenRepository.cs",
+              "RelativeToolTip": "ReserveX.Core.Domain\\Interfaces\\IRefreshTokenRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T06:02:48.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "ActiveUserRequirement .cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Authorization\\Requirements\\ActiveUserRequirement .cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Application\\Authorization\\Requirements\\ActiveUserRequirement .cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\Authorization\\Requirements\\ActiveUserRequirement .cs",
+              "RelativeToolTip": "ReserveX.Core.Application\\Authorization\\Requirements\\ActiveUserRequirement .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T05:15:40.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\Settings\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Domain\\Settings\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\Settings\\JwtSettings.cs",
+              "RelativeToolTip": "ReserveX.Core.Domain\\Settings\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T20:54:10.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "StationScheduleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\Repositories\\StationScheduleRepository.cs",
+              "RelativeDocumentMoniker": "ReserveX.Infraestructure.Persistence\\Repositories\\StationScheduleRepository.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\Repositories\\StationScheduleRepository.cs",
+              "RelativeToolTip": "ReserveX.Infraestructure.Persistence\\Repositories\\StationScheduleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T04:23:31.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "StationResourceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\Repositories\\StationResourceRepository.cs",
+              "RelativeDocumentMoniker": "ReserveX.Infraestructure.Persistence\\Repositories\\StationResourceRepository.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\Repositories\\StationResourceRepository.cs",
+              "RelativeToolTip": "ReserveX.Infraestructure.Persistence\\Repositories\\StationResourceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T04:23:31.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "SlotRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\Repositories\\SlotRepository.cs",
+              "RelativeDocumentMoniker": "ReserveX.Infraestructure.Persistence\\Repositories\\SlotRepository.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\Repositories\\SlotRepository.cs",
+              "RelativeToolTip": "ReserveX.Infraestructure.Persistence\\Repositories\\SlotRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T04:23:29.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "IStationScheduleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\Interfaces\\IStationScheduleRepository.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Domain\\Interfaces\\IStationScheduleRepository.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\Interfaces\\IStationScheduleRepository.cs",
+              "RelativeToolTip": "ReserveX.Core.Domain\\Interfaces\\IStationScheduleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T04:23:28.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "IStationScheduleDateRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\Interfaces\\IStationScheduleDateRepository.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Domain\\Interfaces\\IStationScheduleDateRepository.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\Interfaces\\IStationScheduleDateRepository.cs",
+              "RelativeToolTip": "ReserveX.Core.Domain\\Interfaces\\IStationScheduleDateRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T04:23:28.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "IStationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\Interfaces\\IStationRepository.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Domain\\Interfaces\\IStationRepository.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\Interfaces\\IStationRepository.cs",
+              "RelativeToolTip": "ReserveX.Core.Domain\\Interfaces\\IStationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T04:23:28.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "IStationResourceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\Interfaces\\IStationResourceRepository.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Domain\\Interfaces\\IStationResourceRepository.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\Interfaces\\IStationResourceRepository.cs",
+              "RelativeToolTip": "ReserveX.Core.Domain\\Interfaces\\IStationResourceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T04:23:27.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "IReservationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\Interfaces\\IReservationRepository.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Domain\\Interfaces\\IReservationRepository.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\Interfaces\\IReservationRepository.cs",
+              "RelativeToolTip": "ReserveX.Core.Domain\\Interfaces\\IReservationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T04:23:27.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "ISlotRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\Interfaces\\ISlotRepository.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Domain\\Interfaces\\ISlotRepository.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\Interfaces\\ISlotRepository.cs",
+              "RelativeToolTip": "ReserveX.Core.Domain\\Interfaces\\ISlotRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T04:23:27.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "IResourceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\Interfaces\\IResourceRepository.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Domain\\Interfaces\\IResourceRepository.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\Interfaces\\IResourceRepository.cs",
+              "RelativeToolTip": "ReserveX.Core.Domain\\Interfaces\\IResourceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T04:23:26.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "ReservationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\Repositories\\ReservationRepository.cs",
+              "RelativeDocumentMoniker": "ReserveX.Infraestructure.Persistence\\Repositories\\ReservationRepository.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\Repositories\\ReservationRepository.cs",
+              "RelativeToolTip": "ReserveX.Infraestructure.Persistence\\Repositories\\ReservationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T04:23:26.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Domain\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "ReserveX.Core.Domain\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T04:23:22.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "ResourceEntityConfiguuration.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\EntitiesConfiguration\\ResourceEntityConfiguuration.cs",
+              "RelativeDocumentMoniker": "ReserveX.Infraestructure.Persistence\\EntitiesConfiguration\\ResourceEntityConfiguuration.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\EntitiesConfiguration\\ResourceEntityConfiguuration.cs",
+              "RelativeToolTip": "ReserveX.Infraestructure.Persistence\\EntitiesConfiguration\\ResourceEntityConfiguuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T04:17:01.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "StationResource.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\Entities\\StationResource.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Domain\\Entities\\StationResource.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\Entities\\StationResource.cs",
+              "RelativeToolTip": "ReserveX.Core.Domain\\Entities\\StationResource.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T23:15:55.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "ReservationEntityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\EntitiesConfiguration\\ReservationEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "ReserveX.Infraestructure.Persistence\\EntitiesConfiguration\\ReservationEntityConfiguration.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\EntitiesConfiguration\\ReservationEntityConfiguration.cs",
+              "RelativeToolTip": "ReserveX.Infraestructure.Persistence\\EntitiesConfiguration\\ReservationEntityConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T04:11:10.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "StationSchedule.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\Entities\\StationSchedule.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Domain\\Entities\\StationSchedule.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\Entities\\StationSchedule.cs",
+              "RelativeToolTip": "ReserveX.Core.Domain\\Entities\\StationSchedule.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T17:25:20.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "StationScheduleDate.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\Entities\\StationScheduleDate.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Domain\\Entities\\StationScheduleDate.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\Entities\\StationScheduleDate.cs",
+              "RelativeToolTip": "ReserveX.Core.Domain\\Entities\\StationScheduleDate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T23:33:30.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "StationEntityCofiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\EntitiesConfiguration\\StationEntityCofiguration.cs",
+              "RelativeDocumentMoniker": "ReserveX.Infraestructure.Persistence\\EntitiesConfiguration\\StationEntityCofiguration.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Persistence\\EntitiesConfiguration\\StationEntityCofiguration.cs",
+              "RelativeToolTip": "ReserveX.Infraestructure.Persistence\\EntitiesConfiguration\\StationEntityCofiguration.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwB8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T03:48:55.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "ResourseType.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\Common\\enums\\ResourseType.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Domain\\Common\\enums\\ResourseType.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\Common\\enums\\ResourseType.cs",
+              "RelativeToolTip": "ReserveX.Core.Domain\\Common\\enums\\ResourseType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T23:35:46.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\Common\\enums\\UserRole.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Domain\\Common\\enums\\UserRole.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\Common\\enums\\UserRole.cs",
+              "RelativeToolTip": "ReserveX.Core.Domain\\Common\\enums\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T23:25:19.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "ReservationStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\Common\\enums\\ReservationStatus.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Domain\\Common\\enums\\ReservationStatus.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\Common\\enums\\ReservationStatus.cs",
+              "RelativeToolTip": "ReserveX.Core.Domain\\Common\\enums\\ReservationStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T19:41:16.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\Common\\enums\\Status.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Domain\\Common\\enums\\Status.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\Common\\enums\\Status.cs",
+              "RelativeToolTip": "ReserveX.Core.Domain\\Common\\enums\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T16:57:23.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "ReserveX.Core.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\ReserveX.Core.Application.csproj",
+              "RelativeDocumentMoniker": "ReserveX.Core.Application\\ReserveX.Core.Application.csproj",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\ReserveX.Core.Application.csproj",
+              "RelativeToolTip": "ReserveX.Core.Application\\ReserveX.Core.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-11T02:46:49.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "ReserveX.Infraestructure.Shared.csproj",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Shared\\ReserveX.Infraestructure.Shared.csproj",
+              "RelativeDocumentMoniker": "ReserveX.Infraestructure.Shared\\ReserveX.Infraestructure.Shared.csproj",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Shared\\ReserveX.Infraestructure.Shared.csproj",
+              "RelativeToolTip": "ReserveX.Infraestructure.Shared\\ReserveX.Infraestructure.Shared.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-11T02:46:48.47Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "d7c89c3b-5792-4b12-882b-64ec39752952",
+        "Display": 0,
+        "X": 1,
+        "Y": 1,
+        "Width": 1534,
+        "Height": 814,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Slot.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\Entities\\Slot.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Domain\\Entities\\Slot.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\Entities\\Slot.cs",
+              "RelativeToolTip": "ReserveX.Core.Domain\\Entities\\Slot.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T17:32:44.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Station.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\Entities\\Station.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Domain\\Entities\\Station.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\Entities\\Station.cs",
+              "RelativeToolTip": "ReserveX.Core.Domain\\Entities\\Station.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T16:50:08.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\Entities\\Reservation.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Domain\\Entities\\Reservation.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\Entities\\Reservation.cs",
+              "RelativeToolTip": "ReserveX.Core.Domain\\Entities\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T19:38:00.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Resource.cs",
+              "DocumentMoniker": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\Entities\\Resource.cs",
+              "RelativeDocumentMoniker": "ReserveX.Core.Domain\\Entities\\Resource.cs",
+              "ToolTip": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\Entities\\Resource.cs",
+              "RelativeToolTip": "ReserveX.Core.Domain\\Entities\\Resource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T23:08:44.654Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

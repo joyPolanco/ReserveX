@@ -1,0 +1,15 @@
+C:\Users\Johaly\OneDrive\Escritorio\GitHub\ReserveX\ReserveX.Core.Application\obj\Debug\net9.0\ReserveX.Core.Application.csproj.AssemblyReference.cache
+C:\Users\Johaly\OneDrive\Escritorio\GitHub\ReserveX\ReserveX.Core.Application\obj\Debug\net9.0\ReserveX.Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johaly\OneDrive\Escritorio\GitHub\ReserveX\ReserveX.Core.Application\obj\Debug\net9.0\ReserveX.Core.Application.AssemblyInfoInputs.cache
+C:\Users\Johaly\OneDrive\Escritorio\GitHub\ReserveX\ReserveX.Core.Application\obj\Debug\net9.0\ReserveX.Core.Application.AssemblyInfo.cs
+C:\Users\Johaly\OneDrive\Escritorio\GitHub\ReserveX\ReserveX.Core.Application\obj\Debug\net9.0\ReserveX.Core.Application.csproj.CoreCompileInputs.cache
+C:\Users\Johaly\OneDrive\Escritorio\GitHub\ReserveX\ReserveX.Core.Application\bin\Debug\net9.0\ReserveX.Core.Application.deps.json
+C:\Users\Johaly\OneDrive\Escritorio\GitHub\ReserveX\ReserveX.Core.Application\bin\Debug\net9.0\ReserveX.Core.Application.dll
+C:\Users\Johaly\OneDrive\Escritorio\GitHub\ReserveX\ReserveX.Core.Application\bin\Debug\net9.0\ReserveX.Core.Application.pdb
+C:\Users\Johaly\OneDrive\Escritorio\GitHub\ReserveX\ReserveX.Core.Application\bin\Debug\net9.0\ReserveX.Core.Domain.dll
+C:\Users\Johaly\OneDrive\Escritorio\GitHub\ReserveX\ReserveX.Core.Application\bin\Debug\net9.0\ReserveX.Core.Domain.pdb
+C:\Users\Johaly\OneDrive\Escritorio\GitHub\ReserveX\ReserveX.Core.Application\obj\Debug\net9.0\ReserveX.F90043A6.Up2Date
+C:\Users\Johaly\OneDrive\Escritorio\GitHub\ReserveX\ReserveX.Core.Application\obj\Debug\net9.0\ReserveX.Core.Application.dll
+C:\Users\Johaly\OneDrive\Escritorio\GitHub\ReserveX\ReserveX.Core.Application\obj\Debug\net9.0\refint\ReserveX.Core.Application.dll
+C:\Users\Johaly\OneDrive\Escritorio\GitHub\ReserveX\ReserveX.Core.Application\obj\Debug\net9.0\ReserveX.Core.Application.pdb
+C:\Users\Johaly\OneDrive\Escritorio\GitHub\ReserveX\ReserveX.Core.Application\obj\Debug\net9.0\ref\ReserveX.Core.Application.dll

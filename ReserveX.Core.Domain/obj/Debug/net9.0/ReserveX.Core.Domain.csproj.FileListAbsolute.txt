@@ -1,0 +1,11 @@
+C:\Users\Johaly\OneDrive\Escritorio\GitHub\ReserveX\ReserveX.Core.Domain\bin\Debug\net9.0\ReserveX.Core.Domain.deps.json
+C:\Users\Johaly\OneDrive\Escritorio\GitHub\ReserveX\ReserveX.Core.Domain\bin\Debug\net9.0\ReserveX.Core.Domain.dll
+C:\Users\Johaly\OneDrive\Escritorio\GitHub\ReserveX\ReserveX.Core.Domain\bin\Debug\net9.0\ReserveX.Core.Domain.pdb
+C:\Users\Johaly\OneDrive\Escritorio\GitHub\ReserveX\ReserveX.Core.Domain\obj\Debug\net9.0\ReserveX.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johaly\OneDrive\Escritorio\GitHub\ReserveX\ReserveX.Core.Domain\obj\Debug\net9.0\ReserveX.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\Johaly\OneDrive\Escritorio\GitHub\ReserveX\ReserveX.Core.Domain\obj\Debug\net9.0\ReserveX.Core.Domain.AssemblyInfo.cs
+C:\Users\Johaly\OneDrive\Escritorio\GitHub\ReserveX\ReserveX.Core.Domain\obj\Debug\net9.0\ReserveX.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Johaly\OneDrive\Escritorio\GitHub\ReserveX\ReserveX.Core.Domain\obj\Debug\net9.0\ReserveX.Core.Domain.dll
+C:\Users\Johaly\OneDrive\Escritorio\GitHub\ReserveX\ReserveX.Core.Domain\obj\Debug\net9.0\refint\ReserveX.Core.Domain.dll
+C:\Users\Johaly\OneDrive\Escritorio\GitHub\ReserveX\ReserveX.Core.Domain\obj\Debug\net9.0\ReserveX.Core.Domain.pdb
+C:\Users\Johaly\OneDrive\Escritorio\GitHub\ReserveX\ReserveX.Core.Domain\obj\Debug\net9.0\ref\ReserveX.Core.Domain.dll
