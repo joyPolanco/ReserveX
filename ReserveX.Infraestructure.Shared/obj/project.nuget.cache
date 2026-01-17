@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zoUi2YXxcz4=",
+  "dgSpecHash": "479nUPuzeVM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Infraestructure.Shared\\ReserveX.Infraestructure.Shared.csproj",
+  "projectFilePath": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\ReserveX\\ReserveX.Infraestructure.Shared\\ReserveX.Infraestructure.Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Johaly\\.nuget\\packages\\asp.versioning.abstractions\\8.1.0\\asp.versioning.abstractions.8.1.0.nupkg.sha512",
     "C:\\Users\\Johaly\\.nuget\\packages\\asp.versioning.http\\8.1.1\\asp.versioning.http.8.1.1.nupkg.sha512",

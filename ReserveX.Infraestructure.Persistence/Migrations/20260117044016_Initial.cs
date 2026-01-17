@@ -202,6 +202,11 @@ namespace ReserveX.Infraestructure.Persistence.Migrations
                         onDelete: ReferentialAction.Cascade);
                 });
 
+            migrationBuilder.InsertData(
+                table: "User",
+                columns: new[] { "Id", "CreatedAt", "Email", "LastName", "Name", "PasswordHash", "Role", "Status" },
+                values: new object[] { new Guid("11111111-1111-1111-1111-111111111111"), new DateTime(2024, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), "johalypolanco13@gmail.com", "Concepcion", "Johaly", "$2b$12$p5ZtMFQRYB7y0wi/BGOOP.VxMAQP70mh4kVInaGTGj4R2ce0XZZHm", 0, 0 });
+
             migrationBuilder.CreateIndex(
                 name: "IX_RefreshToken_UserId",
                 table: "RefreshToken",

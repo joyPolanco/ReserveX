@@ -11,7 +11,7 @@ namespace ReserveX.Core.Application.Features.Auth.Commands.RefreshToken
     {
         public RefreshTokenCommandValidator()
         {
-            RuleFor(x => x.RefreshToken).NotEmpty().WithMessage("Refresh token must be passed");
+            RuleFor(x => x.RefreshToken).NotEmpty().WithMessage("Refresh token must be provided");
         }
     }
 }

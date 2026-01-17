@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nl0/VDRd6sU=",
+  "dgSpecHash": "IfwhU8Aezss=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Application\\ReserveX.Core.Application.csproj",
+  "projectFilePath": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\ReserveX\\ReserveX.Core.Application\\ReserveX.Core.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Johaly\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\Johaly\\.nuget\\packages\\bcrypt.net-core\\1.6.0\\bcrypt.net-core.1.6.0.nupkg.sha512",

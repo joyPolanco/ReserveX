@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\ReserveX\\ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj",
       "projectName": "ReserveX.Core.Domain",
-      "projectPath": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj",
+      "projectPath": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\ReserveX\\ReserveX.Core.Domain\\ReserveX.Core.Domain.csproj",
       "packagesPath": "C:\\Users\\Johaly\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\GitHub\\ReserveX\\ReserveX.Core.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Johaly\\OneDrive\\Escritorio\\ReserveX\\ReserveX.Core.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

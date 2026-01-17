@@ -9,13 +9,13 @@ using System.Threading.Tasks;
 
 namespace ReserveX.Core.Application.Features.User.Commands.SetStatus
 {
-    public class SetUserStatusCommand: IRequest<Unit>
+    public class SetUserStatusCommand: IRequest<Result<Unit>>
     {
         public Guid UserId { get; set; }
         public bool ToActive { get; set; }
     }
 
-    public class SetUserStatusCommandHandler : IRequestHandler<SetUserStatusCommand, Unit>
+    public class SetUserStatusCommandHandler : IRequestHandler<SetUserStatusCommand, Result<Unit>>
     {
         private readonly IUserRepository _userRepository;
 
@@ -23,15 +23,15 @@ namespace ReserveX.Core.Application.Features.User.Commands.SetStatus
         {
             _userRepository= userRepository;
         }
-        public async Task<Unit> Handle(SetUserStatusCommand request, CancellationToken cancellationToken)
+        public async Task<Result<Unit>> Handle(SetUserStatusCommand request, CancellationToken cancellationToken)
         {
             var user= await _userRepository.GetAllQuery().Where(r=>r.Id==request.UserId).FirstOrDefaultAsync();
-            if (user == null) throw new KeyNotFoundException("There isn't a user associated to this id");
+            if (user == null) return Result<Unit>.Failure("There isn't a user associated to this id", Domain.Common.enums.ErrorType.NotFound);
 
          
             user.Status = request.ToActive ? Domain.Common.enums.Status.ACTIVE : Domain.Common.enums.Status.INACTIVE;
             await _userRepository.UpdateUserByGuidAsync(user.Id, user);
-            return Unit.Value;
+            return Result<Unit>.Success(Unit.Value);
                 
                 }
     }

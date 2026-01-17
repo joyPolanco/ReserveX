@@ -65,4 +65,3 @@ app.MapControllers();
 
 app.Run();
 
-throw new ArgumentException();

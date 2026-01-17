@@ -1,4 +1,5 @@
 ﻿using MediatR;
+using Microsoft.EntityFrameworkCore;
 using ReserveX.Core.Application.Helpers;
 using ReserveX.Core.Application.Interfaces;
 using ReserveX.Core.Application.Services;
@@ -12,7 +13,7 @@ using System.Threading.Tasks;
 
 namespace ReserveX.Core.Application.Features.Auth.Commands.SignIn
 {
-    public class SignInCommand : IRequest<Guid>
+    public class SignInCommand : IRequest<Result<Guid>>
     {
         public string? Name { get; set; }
         public string? Password { get; set; }
@@ -20,7 +21,7 @@ namespace ReserveX.Core.Application.Features.Auth.Commands.SignIn
         public string? LastName { get; set; }
         public string? Email { get; set; }
     }
-    public class SignInCommandHandler : IRequestHandler<SignInCommand, Guid>
+    public class SignInCommandHandler : IRequestHandler<SignInCommand,Result< Guid>>
     {
         private readonly IUserRepository _userRepository;
         private readonly IHasher _hasher;
@@ -30,9 +31,12 @@ namespace ReserveX.Core.Application.Features.Auth.Commands.SignIn
             _userRepository = userRepository;
             _hasher = hasher;
         }
-        public async Task<Guid> Handle(SignInCommand request, CancellationToken cancellationToken)
+        public async Task<Result<Guid>> Handle(SignInCommand request, CancellationToken cancellationToken)
         {
-            var created = await _userRepository.AddAsync(new Domain.Entities.User
+             var uniqueEmail=!await _userRepository.GetAllQuery().Where(x => x.Email == request.Email).AnyAsync();
+
+            if (!uniqueEmail) return Result<Guid>.Failure("Email associated to other account", ErrorType.Conflict);
+        var created = await _userRepository.AddAsync(new Domain.Entities.User
             {
                 Id = Guid.NewGuid(),
                 Email = request.Email!,
@@ -43,7 +47,7 @@ namespace ReserveX.Core.Application.Features.Auth.Commands.SignIn
                 Status = Status.ACTIVE,
                 Role = UserRole.USER
             });
-            return created!.Id;
+            return Result<Guid>.Success(created!.Id);
         }
     }
 }

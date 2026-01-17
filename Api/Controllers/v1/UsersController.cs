@@ -16,11 +16,14 @@ namespace WebApi.Controllers.v1
         [HttpPost]
         public async Task<IActionResult> CreateUser(CreateUserCommand request)
         {
-            var userId = await _mediator.Send(request);
-
+            var result = await _mediator.Send(request);
+            if (result.IsSuccess!)
+            {
+                HandleResult(result);
+            }
             return CreatedAtAction(
                 nameof(GetUserById),
-                new { userId },
+                new { result.Value},
                 null
             );
         }
@@ -30,7 +33,7 @@ namespace WebApi.Controllers.v1
         public async Task<IActionResult> GetUserById([FromRoute]GetUserByIdQuery request)
         {
             var result = await _mediator.Send(request);
-            return Ok(result);
+            return HandleResult(result);
 
         }
 
@@ -45,6 +48,7 @@ namespace WebApi.Controllers.v1
         public async Task<IActionResult> SetUserStatus(SetUserStatusCommand request)
         {
             var result = await _mediator.Send(request);
+            HandleResult(result);
             return NoContent();
         }
 

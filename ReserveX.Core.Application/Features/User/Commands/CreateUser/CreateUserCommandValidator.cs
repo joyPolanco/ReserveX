@@ -8,11 +8,9 @@ namespace ReserveX.Core.Application.Features.User.Commands.CreateUser
     public class CreateUserCommandValidator: AbstractValidator<CreateUserCommand>
 
     {
-        private readonly IUserRepository _userRepository;
 
-        public CreateUserCommandValidator(IUserRepository userRepository)
+        public CreateUserCommandValidator()
         {
-            _userRepository = userRepository;
 
             RuleFor(x => x.Email)
                 .NotEmpty()

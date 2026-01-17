@@ -12,8 +12,8 @@ using ReserveX.Infraestructure.Persistence.Contexts;
 namespace ReserveX.Infraestructure.Persistence.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20260116181430_Initial2")]
-    partial class Initial2
+    [Migration("20260117044016_Initial")]
+    partial class Initial
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -280,8 +280,8 @@ namespace ReserveX.Infraestructure.Persistence.Migrations
                     b.HasData(
                         new
                         {
-                            Id = new Guid("3edaf5d5-2967-433d-af4f-c8ff2e29379d"),
-                            CreatedAt = new DateTime(2026, 1, 16, 13, 14, 29, 308, DateTimeKind.Local).AddTicks(804),
+                            Id = new Guid("11111111-1111-1111-1111-111111111111"),
+                            CreatedAt = new DateTime(2024, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             Email = "johalypolanco13@gmail.com",
                             LastName = "Concepcion",
                             Name = "Johaly",
