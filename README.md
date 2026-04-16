@@ -249,7 +249,9 @@ El sistema expone documentación mediante Swagger:
 ---
 
 ## 17. Diagramas
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/fad713e0-1998-4767-8f19-2dddec407cdc" />
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/915b94b0-e42c-4d2d-9c95-5c3cd3922343" />
 
 
 
